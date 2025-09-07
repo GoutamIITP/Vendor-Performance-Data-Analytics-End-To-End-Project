@@ -162,9 +162,7 @@ Interactive Power BI dashboard featuring:
 
 For detailed information about the data structure and fields, refer to [PowerBI_Data_Dictionary.md](PowerBI_Data_Dictionary.md).
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+ 
 
 ## 📄 License
 
