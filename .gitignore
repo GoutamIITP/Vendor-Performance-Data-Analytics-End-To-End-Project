@@ -1,0 +1,10 @@
+# Large data files
+*.db
+data.zip
+*.csv
+data/
+inventory.db
+final_table_for_powerbi.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/y
